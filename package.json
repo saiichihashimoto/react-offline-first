@@ -1,0 +1,14 @@
+{
+  "name": "react-offline-first",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiichihashimoto/react-offline-first.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saiichihashimoto/react-offline-first/issues"
+  },
+  "homepage": "https://github.com/saiichihashimoto/react-offline-first#readme"
+}
